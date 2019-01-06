@@ -43,7 +43,7 @@ exchange A[i+1] with A[r]
 return i + 1
 ```
 借用一张《算法导论》的图
-![Introduction to Algorithms](http://cdn.mmmxcc.cn/blog/20170309/191837286.png)
+![Introduction to Algorithms](http://cdn.lifeiyang.cn/blog/20170309/191837286.png)
 
 # 参考代码
 
